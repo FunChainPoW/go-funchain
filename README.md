@@ -1,12 +1,12 @@
-# LuckyBits-Core
-Welcome to **LuckyBits** — the first **multiplier-based Proof of Work (PoW)** blockchain that transforms mining into an exciting and gamified experience! 🎰 Built for **decentralization, innovation**, and a **community-driven vision**, LuckyBits introduces a unique twist with **multiplier rewards** and **jackpot-like mechanics** that make every block mined a thrilling adventure.
+# FunChain
+Welcome to **FunChain** — the first **multiplier-based Proof of Work (PoW)** blockchain that transforms mining into an exciting and gamified experience! 🎰 Built for **decentralization, innovation**, and a **community-driven vision**, FunChain introduces a unique twist with **multiplier rewards** and **jackpot-like mechanics** that make every block mined a thrilling adventure.
 
-This repository hosts the **official Golang implementation** of the LuckyBits blockchain, providing a secure and scalable foundation for **decentralized applications (DApps), smart contracts**, and **token ecosystems**. Whether you're a miner looking for high stakes or a developer eager to build on cutting-edge tech, LuckyBits has something for everyone!
+This repository hosts the **official Golang implementation** of the FunChain blockchain, providing a secure and scalable foundation for **decentralized applications (DApps), smart contracts**, and **token ecosystems**. Whether you're a miner looking for high stakes or a developer eager to build on cutting-edge tech, FunChain has something for everyone!
 
-### 🌐 Official Website: [LuckyBits.org](https://luckybits.org/)
+### 🌐 Official Website: https://funchain.network/ 
 
 ## Multiplier-Based Mining System 🎲
-One of the standout features of LuckyBits is its **multiplier-based reward system**, where each block mined has the chance to multiply your rewards. Here's the breakdown of the possible multipliers:
+One of the standout features of FunChain is its **multiplier-based reward system**, where each block mined has the chance to multiply your rewards. Here's the breakdown of the possible multipliers:
 
 | Multiplier | Probability  | Description                             |
 |------------|--------------|-----------------------------------------|
@@ -22,7 +22,7 @@ One of the standout features of LuckyBits is its **multiplier-based reward syste
 | **100.0x** | 0.25%        | A monumental 100x reward multiplier!    |
 | **1000.0x**| 0.02%        | The ultimate jackpot — 1000x rewards!   |
 
-With LuckyBits, every block you mine could be a **game-changer**, giving you the chance to hit **multipliers up to 1000x** and reap incredible rewards. Will you be the one to hit the jackpot?
+With FunChain, every block you mine could be a **game-changer**, giving you the chance to hit **multipliers up to 1000x** and reap incredible rewards. Will you be the one to hit the jackpot?
 
 ## Building the Source
 
